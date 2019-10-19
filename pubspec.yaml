@@ -1,8 +1,8 @@
 name: flutter_bluetooth
 description: A new Flutter plugin.
 version: 0.0.1
-author: kevinrmendez
-homepage:
+author: Kevin Mendez <kevinmendezdev@gmail.com>
+homepage: https://github.com/kevinrmendez/flutter_bluetooth_plugin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
